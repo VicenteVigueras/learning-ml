@@ -1,4 +1,6 @@
-### The Machine Learning Journey
-Machine learning is becoming an essential tool in modern software development, powering everything from automation to data-driven decision-making. As these technologies continue to shape the industry, understanding their fundamentals is more important than ever.
+### Learning Machine Learning
 
-This repository is a collection of machine learning problems and solutions, designed to reinforce core concepts and practical implementations. By building and experimenting with different models, I aim to deepen my understanding of ML and showcase its real-world applications.
+Project goal: 
+- Build foundational hands-on knowledge on ML: The mathematics/statistics, core concepts, and algorithms per use case.
+- I don't have a clear plan just yet, but nobody really does at the beginning. This project will evolve overtime. 
+
