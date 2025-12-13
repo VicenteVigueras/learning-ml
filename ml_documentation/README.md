@@ -1,6 +1,6 @@
-### ml_resources
+### ml documentation
 
-Documentation of resources I come through.
+Documentation I come through.
 
 #### Libraries
 - Numpy: https://numpy.org/
